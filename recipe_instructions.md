@@ -4,7 +4,7 @@ teaching: 10
 exercises: 2
 ---
 
-:::::::::::::::::::::::::::::::::::::: questions 
+:::::::::::::::::::::::::::::::::::::: questions
 
 - How do you prepare the sourdough cinnamon rolls?
 
@@ -20,7 +20,7 @@ exercises: 2
 
 ## The Night Before
 
-**Mix the dough:** 
+**Mix the dough:**
 
 - Use a box grater to shred the cold butter into a large mixing bowl.
 - Add the flour to the bowl and use a fork, bench scraper, or pastry cutter (if you have one) to cut the butter into the flour.
@@ -34,7 +34,8 @@ exercises: 2
 
 - Mix the brown sugar and cinnamon in a small bowl.
 - In a separate bowl, mix the glaze ingredients.
-- Preheat oven to 375°F (190°C) and butter a 12" cast iron skillet or deep baking container (glass or enamel will work just fine).
+- Preheat oven to 375°F (290°C) and butter a 12" cast iron skillet or deep baking container (glass or enamel will work just 
+fine).
 
 **Add leavening agents to dough:**
 
@@ -64,4 +65,3 @@ exercises: 2
 
 ![](fig/cinnamon-rolls-in-the-oven.jpg){alt='A bunch of cinnamon rolls in a baking tray in an oven.'}
 A batch of cinnamon rolls partway through baking, wafting a very tempting aroma throughout the kitchen.
-
